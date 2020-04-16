@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![image of the Irish Uilleann Pipes](https://en.wikipedia.org/wiki/Uilleann_pipes#/media/File:UilleannPipes.jpg)
